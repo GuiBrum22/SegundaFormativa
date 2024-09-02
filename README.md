@@ -271,8 +271,9 @@ flowchart TD
     I --> H
 
 ```
-
+**Baixo:**
+![Sem título](https://github.com/user-attachments/assets/0496561b-a7e4-47ac-97aa-3db12380b16a)
+**Médio:**
 <img width="523" alt="Capturar" src="https://github.com/user-attachments/assets/260d26d3-d103-46c9-a0db-8351748938f6">
 
-![Sem título](https://github.com/user-attachments/assets/0496561b-a7e4-47ac-97aa-3db12380b16a)
 
